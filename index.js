@@ -6,5 +6,5 @@ var mickey = new Cat('Mickey')
 
 dog.sayHi()
 dog.eat(mickey)
-console.log(dog)
+
 
